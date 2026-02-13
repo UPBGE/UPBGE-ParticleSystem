@@ -1,6 +1,5 @@
 # UPBGE Particle System
-It's an addon design for UPBGE 0.5+ to create particle effects for your game without doing it from scratch
-
+It's an addon design for UPBGE 0.5+ to create particle effects for your game without doing it from scratch, and it create with help of AI
 ## Features
 + Integrated directly into **The physics properties** for easy access
 + Two emission modes **continuous** and **burst**
@@ -29,11 +28,11 @@ You can control the particle spawning with *Logic Brick* or *Logic nodes* by usi
 
 > [!WARNING]
 The performance is not great since the Add-on uses CPU, but to deliver the best performance, follow these steps:
-1- Select the object you want to use as a  particle
-2- Go to **object properties** and enable ***UPBGE Dupli Base***
-3- Change the physics properties to **No Collision** and uncheck **Sound Occluder**
-4- If you want to use textures i highly recommend to use *DDS* format
-5- The Add-on still does not use billboard for particle try using simple objects or reduce the **Emission Rate**
+1. Select the object you want to use as a  particle
+2. Go to **object properties** and enable ***UPBGE Dupli Base***
+3. Change the physics properties to **No Collision** and uncheck **Sound Occluder**
+4. If you want to use textures i highly recommend to use *DDS* format
+5. The Add-on still does not use billboard for particle try using simple objects or reduce the **Emission Rate**
 
 ## Discord Server
 If you want to join the community, go to the Discord server https://discord.gg/842uWxchu7
