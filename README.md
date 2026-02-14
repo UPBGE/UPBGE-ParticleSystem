@@ -21,7 +21,8 @@ It's an addon design for UPBGE 0.5+ to create particle effects for your game wit
 4. Go to particle mesh and select any object you want
 5. Hide the object by selecting it and pressing H or clicking on the eye in the outliner
 6. Click on "Initialize"
-7. Press P and enjoy!
+7. Check the "Emission trigger"
+8. Press P and enjoy!
 
 > [!TIP]
 You can control the particle spawning with *Logic Brick* or *Logic nodes* by using **ps_tigger** bool property
